@@ -1,5 +1,4 @@
 - 👋 Hi, I’m kushal chapagain
-- 👀 I’m interested in technology.
 - 📫 Reach me: chapagainkushal74@gmail.com
 
 <!---
