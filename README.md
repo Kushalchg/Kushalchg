@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kushal chapagain
-- 📫 Reach me: chapagainkushal74@gmail.com
+- 📫 Reach me: kushalchapagain74@gmail.com
 
 <!---
 Kushalchg/Kushalchg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
