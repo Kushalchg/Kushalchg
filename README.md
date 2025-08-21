@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kushal chapagain(Graduated IT Engineer)
-- 📫 Reach me: kushalchapagain74@gmail.com
+- 📫 Reach me: chapagainkushal74@gmail.com
   
 
 <!---
