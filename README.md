@@ -8,8 +8,7 @@
 > with React Native and also some of React and Nextjs for web, now I am currently
 > exploring backend with Go.
 
-**# Projects**
-
+## Projects
 ***
 
 - **[openpte.com](https://openpte.com)**(closed source) - Pearson English Test(PTE) practice platform with
