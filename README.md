@@ -1,4 +1,4 @@
-### Hi, I'm Kushal 👋
+# Hi, I'm Kushal 👋
 
 📫 Reach me: chapagainkushal74@gmail.com
 
