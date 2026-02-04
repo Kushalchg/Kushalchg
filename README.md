@@ -1,4 +1,4 @@
-Hi, I'm Kushal 👋
+### Hi, I'm Kushal 👋
 
 📫 Reach me: chapagainkushal74@gmail.com
 
@@ -8,7 +8,7 @@ Hi, I'm Kushal 👋
 > with React Native and also some of React and Nextjs for web, now I am currently
 > exploring backend with Go.
 
-**#Projects**
+**# Projects**
 
 ***
 
