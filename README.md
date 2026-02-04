@@ -6,7 +6,7 @@ Hi, I'm Kushal 👋
 
 > I am full time software developer, I worked almost 3 years as Mobile Developer
 > with React Native and also some of React and Nextjs for web, now I am currently
-> exploring backend with golang.
+> exploring backend with Go.
 
 ---
 - **[openpte.com](https://openpte.com)**(closed source) - Pearson English Test(PTE) practice platform with
