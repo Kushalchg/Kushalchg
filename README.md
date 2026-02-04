@@ -8,7 +8,10 @@ Hi, I'm Kushal 👋
 > with React Native and also some of React and Nextjs for web, now I am currently
 > exploring backend with Go.
 
----
+**#Projects**
+
+***
+
 - **[openpte.com](https://openpte.com)**(closed source) - Pearson English Test(PTE) practice platform with
   conversational AI.
 - **[Vibenepse](https://play.google.com/store/apps/details?id=com.kushalchapagain.ScriptAf&hl=en)**(closed source) - Fully offline and personal NEPSE (Nepal Stock) portfolio management .
