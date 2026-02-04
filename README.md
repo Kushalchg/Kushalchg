@@ -1,10 +1,11 @@
 Hi, I'm Kushal 👋
+
 📫 Reach me: chapagainkushal74@gmail.com
 
 ---
 
 > I am full time software developer, I worked almost 3 years as Mobile Developer
-> with React Native and also some of React and Nextjs also for web, now I am
+> with React Native and also some of React and Nextjs for web, now I am currently
 > exploring backend with golang.
 
 ---
