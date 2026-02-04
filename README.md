@@ -1,13 +1,18 @@
-- 👋 Hi, I’m kushal chapagain(Graduated IT Engineer)
-- 📫 Reach me: chapagainkushal74@gmail.com
-  
+Hi, I'm Kushal 👋
+📫 Reach me: chapagainkushal74@gmail.com
 
-<!---
-Kushalchg/Kushalchg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+> I am full time software developer, I worked almost 3 years as Mobile Developer
+> with React Native and also some of React and Nextjs also for web, now I am
+> exploring backend with golang.
 
+---
+- **[openpte.com]("https://openpte.com")**(closed source) - Pearson English Test(PTE) practice platform with
+  conversational AI.
+- **[Vibenepse]("https://play.google.com/store/apps/details?id=com.kushalchapagain.ScriptAf&hl=en")**(closed source) - Fully offline and personal NEPSE (Nepal Stock) portfolio management .
+- **[react-native-nepali-picker]("https://www.npmjs.com/package/react-native-nepali-picker")** - Nepali date picker package for react native.
+- **[Image->ASCII]("https://kushalchapagain.com.np/asciiart")** - Image to ASCII
+  art converter.
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
